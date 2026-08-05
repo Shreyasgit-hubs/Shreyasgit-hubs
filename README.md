@@ -1,6 +1,6 @@
 # 💫 Hi there, I'm Shreyas Patil 
 
-👋<br><br>📊 Passionate about Data Science & Data Analytics <br>💻 Skilled in SQL, Python, Power BI, Excel, and Machine Learning and Deep Learning<br>📈 Experienced in Data Cleaning, Data Visualization, Dashboard Development, and Exploratory Data Analysis (EDA)<br>🌱 Currently learning Deep Learning, Advanced Machine Learning, and Cloud Technologies<br>🎯 Interested in Data Scientist, Data Analyst, Business Analyst, and Machine Learning Engineer roles<br>📍 Maharashtra, India
+<br><br>📊 Passionate about Data Science & Data Analytics <br>💻 Skilled in SQL, Python, Power BI, Excel, and Machine Learning and Deep Learning<br>📈 Experienced in Data Cleaning, Data Visualization, Dashboard Development, and Exploratory Data Analysis (EDA)<br>🌱 Currently learning Deep Learning, Advanced Machine Learning, and Cloud Technologies<br>🎯 Interested in Data Scientist, Data Analyst, Business Analyst, and Machine Learning Engineer roles<br>📍 Maharashtra, India
 
 
 ## 🌐 Socials:
